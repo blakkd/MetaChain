@@ -5,7 +5,7 @@ cd ../
 export DOCKER_WORKPLACE_NAME=workplace_rag
 export EVAL_MODE=True
 export DEBUG=True
-export BASE_IMAGES=tjbtech1/gaia-bookworm:v2
+export BASE_IMAGES=tjbtech1/gaia-bookworm:v2-amd64
 export COMPLETION_MODEL=claude-3-5-sonnet-20241022
 
 
